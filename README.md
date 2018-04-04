@@ -10,7 +10,7 @@ This sample shows:
 
 - [How to Publish the app to a local folder](./Doc/Publish.md)
 
- - [How to run the app standalone on Windows](./RunningWindows.md)
+ - [How to run the app standalone on Windows](./Doc/RunningWindows.md)
 
  - [How to run the app on Ubuntu](./Doc/RunningUbuntu.md) on the [Windows Subsystem for Linux](http://gslb.ch/a148a).
 
