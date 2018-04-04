@@ -8,7 +8,7 @@ Then you can install a Linux distribution on Windows 10 from the Windows Store. 
 
 ## Installing .NET on Linux
 
-You can [follow these instruction](http://gslb.ch/a150a) to install and run .NET Core applications on Linux.
+You can [follow these instruction](http://gslb.ch/a150a) to install and run .NET Core on Linux.
 
 ## Running the application on Linux
 
