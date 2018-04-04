@@ -22,3 +22,4 @@ A small difference with .NET "Classic" is that you need to publish a .NET Core a
 
 ![Output DLLs](./Img/2018-04-04_10-37-12.png)
 
+> Now you can try to [run the standalone application on Windows](./RunningWindows.md) and [to run it on Ubuntu](./RunningUbuntu.md).

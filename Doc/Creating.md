@@ -6,7 +6,7 @@ After you get the repo, open it in Visual Studio 2017.
 
 ![.NET Core cross-platform development workload](./Img/2018-04-03_14-23-51.png)
 
-You can build the application and run it. This will open a Windows console and you will be presented with a choice:
+You can build the application in VS2017 and run it. This will open a Windows console and you will be presented with a choice:
 
 ![Console application](./Img/2018-04-03_14-27-39.png)
 
