@@ -12,13 +12,17 @@ You can [follow these instruction](http://gslb.ch/a150a) to install and run .NET
 
 ## Running the application on Linux
 
-With .NET Core installed, you can navigate to the folder in which the binaries are placed. For example if your debug folder is in
+With .NET Core installed, you can navigate to the folder in which the binaries are placed. For example if your Publish folder is in
 
 ```
 C:\temp\PublishOutput
 ```
 
-You can navigate to it in Ubuntu with the command ```cd``` and the corresponding path starting with ```mnt```:
+You can navigate to it in Ubuntu with the command ```cd``` and the corresponding path starting with ```/mnt```:
+
+> Note: Pay attention that Linux is *case sensitive* and ```PublishOutput``` is not the same as ```publishoutput```. 
+
+> Another note: You can use the tab key to auto complete portions of the path.
 
 ```
 cd /mnt/c/temp/PublishOutput
