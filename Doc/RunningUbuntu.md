@@ -42,7 +42,7 @@ You should now be able to see and use the application:
 
 ## Conclusion
 
-I hope that this sample was useful in demonstrating how .NET Core works on Windows and Linux, and how you can now take advantage of the [.NET Standard version of MVVM Light](http://www.mvvmlight.net/std10). Of course this is a simple sample application, but you can also use MVVM Light in [ASP.NET Core applications running on Linux](http://gslb.ch/a141a), in [Azure Functions on Linux](http://gslb.ch/a10a), etc. In addition, you can also of course use MVVM Light for .NET Standard in Xamarin or Windows applications, to build them using the MVVM pattern and have a maximum compatibility with .NET Standard componens.
+I hope that this sample was useful in demonstrating how .NET Core works on Windows and Linux, and how you can now take advantage of the [.NET Standard version of MVVM Light](http://www.mvvmlight.net/std10). Of course this is a simple sample application, but you can also use MVVM Light in [ASP.NET Core applications running on Linux](http://gslb.ch/a141a), in [Azure Functions on Linux](http://gslb.ch/a10a), etc. In addition, [you can also of course use MVVM Light for .NET Standard in Xamarin or Windows applications](http://gslb.ch/b154a), to build them using the MVVM pattern and have a maximum compatibility with .NET Standard componens.
 
 Happy coding,
 Laurent 
