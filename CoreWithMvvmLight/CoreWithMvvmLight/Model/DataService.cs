@@ -6,7 +6,7 @@ namespace CoreWithMvvmLight.Model
 {
     public class DataService : IDataService
     {
-        private const string Url = "https://lbxamsample.azurewebsites.net/api/add/num1/{num1}/num2/{num2}?code=HKRojipnkEV6eq06YdVM/Negiz0swhg2Emb9/0pDBDRUZaz7na7AYw==";
+        private const string Url = "https://lbcalculator.azurewebsites.net/api/add/num1/{num1}/num2/{num2}?code=r9o3qY/Zy0slf4IddK0qq8dNxkDraglwGKaKaCp3D8PFGAorrWosIQ==";
 
         public async Task<string> GetResult(int num1, int num2)
         {
